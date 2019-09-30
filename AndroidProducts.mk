@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosip_twolip.mk
+    $(LOCAL_DIR)/aosip_tulip.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosip_twolip-user \
-    aosip_twolip-userdebug \
-    aosip_twolip-eng
+    aosip_tulip-user \
+    aosip_tulip-userdebug \
+    aosip_tulip-eng
